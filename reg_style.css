@@ -1,0 +1,49 @@
+.logo
+{ 	position:absolute;
+	top:1px;
+	float: left;
+	width: 270 px; 
+	height:auto;
+ 	margin: 32px 0 12px 23px;
+}
+.navigation_bar
+{
+	background-color:#8E44AD; 
+	overflow:hidden;
+	height:150px;
+}
+.navi_main
+{
+	float: right;
+	 width: 140 px;
+	
+	
+}
+.navi_main a
+{
+	float:left;
+	 margin: 75px 28px 53px 28px; 
+	color:#ff9441;
+	font-size: 25px;
+	 text-decoration: none; 
+	text-transform: capitalize;
+
+}
+
+.navi_main a:hover
+{
+	
+	color:blue;
+}
+
+.reg-box
+{	
+	text-align:center;
+	
+	
+	
+}
+body
+{
+background-color: rgba(255, 0, 0, 0.3);
+}
